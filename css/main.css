@@ -1,8 +1,13 @@
 body {
     font-family: Helvetica, sans-serif;
     font-size: 18px;
+    background-image: url(http://vignette1.wikia.nocookie.net/josh100lubu/images/4/40/18360-doge-doge-simple.jpg/revision/latest?cb=20150626051745);
 }
 
 img {
     max-width: 600px;
+}
+
+p {
+    background-color:WHITE;
 }
