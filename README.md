@@ -1,2 +1,4 @@
 # git-started
-First challenge for the INFO343 course
+http://students.washington.edu/yongjp94/
+
+Sup bro
